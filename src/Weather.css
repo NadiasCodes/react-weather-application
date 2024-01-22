@@ -1,3 +1,8 @@
+:root {
+  --main-font-family: "Poppins", sans-serif;
+  --secondary-font-family: "Hachi Maru Pop", cursive;
+}
+
 body {
   background-color: #bcb8b1;
   font-family: "Poppins", sans-serif;
