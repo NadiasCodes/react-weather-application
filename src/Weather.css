@@ -23,7 +23,7 @@ body {
   font-size: 34px;
   font-weight: 100;
   line-height: 29px;
-  margin: 20px 0 0 0;
+  
 }
 
 .Weather ul {
@@ -42,7 +42,7 @@ body {
   color: black;
   font-size: 60px;
   font-weight: 800;
-  line-height: 64px;
+  line-height: 80px;
 }
 
 .Weather img {
