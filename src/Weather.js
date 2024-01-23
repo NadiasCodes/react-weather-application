@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./Weather.css";
 import axios from "axios";
 
-import ReactAnimatedWeather from "react-animated-weather";
 import WeatherInfo from "./WeatherInfo";
 
 export default function Weather(props) {
